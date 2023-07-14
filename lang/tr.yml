@@ -1,0 +1,4 @@
+# GLOBAL TEXTS
+karpuzStuff:
+  title: Karpuz
+  description: Karpuz - An opinionated Nuxt 3 starter boilerplate with TypeScript, TailwindCSS, i18n, eslint, prettier and more...

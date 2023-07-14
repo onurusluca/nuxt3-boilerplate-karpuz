@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "karpuz",
+    "composables",
+    "nuxt",
+    "nuxtjs",
+    "supabase",
+    "tailwindcss",
+    "vueuse",
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "i18n-ally.localesPaths": [
+    "lang"
+  ],
+  "i18n-ally.keystyle": "nested",
+}
