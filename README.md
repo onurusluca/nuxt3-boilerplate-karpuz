@@ -1,9 +1,23 @@
 # Karpuz 🍉 - Opinionated Nuxt 3 Starter
 
+*Work in progress...*
+
 ## Libraries
 
-- Tailwind CSS
-- Emoji Picker Element (<https://github.com/nolanlawson/emoji-picker-element>)
+- 💚 [Nuxt 3](https://nuxt.com/) - SSR, ESR, File-based routing, components auto importing, modules, etc.
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- 🍍 [Pinia](https://pinia.vuejs.org/) - State management
+- 🌐 [i18n](https://i18n.nuxtjs.org/) - Internationalization
+- 📚 [TypeScript](https://nuxt.com/docs/guide/concepts/typescript#typescript) - Can't do without it
+- 🧰 [VueUse](https://vueuse.org/) - Collection of essential Vue Composition Utilities
+- 📦 [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager
+
+## Nuxt Modules
+
+## IDE
+
+We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://github.com/johnsoncodehk/volar). (Disable [Vetur](https://vuejs.github.io/vetur/) if you have it).
+
 
 ## Setup
 
