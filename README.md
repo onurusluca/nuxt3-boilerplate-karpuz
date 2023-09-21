@@ -1,7 +1,5 @@
 # Karpuz 🍉 - Opinionated Nuxt 3 Starter
 
-*Work in progress...*
-
 ## Libraries
 
 - 💚 [Nuxt 3](https://nuxt.com/) - SSR, ESR, File-based routing, components auto importing, modules, etc.
