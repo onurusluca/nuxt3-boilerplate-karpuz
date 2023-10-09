@@ -17,7 +17,5 @@ const handleSignOut = async () => {
 </script>
 
 <template>
-  <div>
-    <h1>fsadfsd</h1>
-  </div>
+  <div></div>
 </template>

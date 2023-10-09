@@ -1,7 +1,7 @@
 {
   "name": "nuxt3-boilerplate-karpuz",
   "version": "0.0.1",
-  "description": "A virtual gathering space where office workers, students, and event participants can gather, talk, share, and collaborate.",
+  "description": "Karpuz is a Nuxt3 boilerplate with TailwindCSS, Supabase, TypeScript, Prettier, ESLint, VueUse, Pinia, Google Fonts, I18n, and more.",
   "private": true,
   "license": "MIT",
   "type": "module",

@@ -63,9 +63,9 @@ useHead({
     <NuxtLayout>
       <!-- https://nuxt.com/docs/api/components/nuxt-loading-indicator -->
       <NuxtLoadingIndicator />
-      <NuxtPage class="ml-28 mt-5 mr-4" />
+      <NuxtPage />
     </NuxtLayout>
   </div>
 </template>
 
-<!-- h-screen w-screen  -->
+<style></style>
